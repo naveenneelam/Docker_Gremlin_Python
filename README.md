@@ -28,7 +28,7 @@ that matches the gremlin-server version.) This
 module
 can be installed using:
 ```
-pip install gremlinpython==3.4.b
+pip install gremlinpython==3.4.2
 ```
 
 To run the demo (and make a minimal test), simply write in the console:
