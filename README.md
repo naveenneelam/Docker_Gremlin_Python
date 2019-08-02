@@ -1,4 +1,4 @@
-# Docker container for Gremlin 3.4.2 with Python Client Under Ubuntu OS
+# Docker container for Gremlin 3.4.2 server with Python Client Under Ubuntu OS
 
 
 This Docker file creates a container running [Gremlin Tinkerpop](https://github.com/apache/tinkerpop), with a TinkerGraph and configured for use with Python ([gremlin-python](http://tinkerpop.apache.org/docs/current/reference/#gremlin-python)) under Ubuntu OS.
